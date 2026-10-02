@@ -1,23 +1,30 @@
-# Hi, I'm IRANZI Response
+# Hey, I am Response
 
-I'm a software engineering student at Makerere University in Kampala. I enjoy taking a useful problem and working through the details needed to turn it into software someone can actually use.
+I am a software engineering student at Makerere University. I build useful products for the messy, everyday parts of work and study.
 
-The AI market is crowded, and putting a chatbot in front of a model is no longer a strong product story by itself. I'm more interested in the harder, less flashy questions: Is this solving a real problem? Does it handle messy inputs and local context? Can a person tell when the result is useful? What happens when the happy path fails? Those are the questions I want my projects to answer better as I learn and build.
+## Meet Orch, my proudest project
 
-## Projects
+Ever downloaded `assignment-final-final.pdf` and then lost it? Orch is built for that exact kind of chaos.
 
-- [VisitKla](https://github.com/iranziresponse-hue/VisitKla) — a Kampala navigation MVP with landmark-based directions and boda fare guidance. It starts with a defined area and a limited set of routes; the local detail is the point.
-- [Nuru](https://github.com/iranziresponse-hue/Nuru) — an invoice extraction project exploring how document information can become structured, usable data.
-- [lumela](https://github.com/iranziresponse-hue/lumela) - a community-powered outage map and installable PWA for sharing and verifying local power-status reports.
-- [studyBuddy](https://github.com/iranziresponse-hue/studyBuddy) — an AI study companion concept bringing tutoring, document analysis, and academic planning together.
-- [file-organizer](https://github.com/iranziresponse-hue/file-organizer) — a Python utility for automating file organization.
+Orch is a Windows app that organizes course and project files, keeps a history of what it moved, and lets you review or undo a decision. It also brings Makerere course setup, deadlines, revision, and project evidence into one place. If it is unsure where a file belongs, it asks instead of pretending.
 
-## What I'm working toward
+[See Orch screenshots](https://orch.spriteteam.com/screenshots.html) | [Get Orch for Windows](https://orch.spriteteam.com/downloads.html) | [View the source](https://github.com/iranziresponse-hue/file-organizer)
 
-I want to become the kind of engineer who can take a product from a clear problem statement through implementation, testing, and thoughtful iteration. Right now, I'm especially curious about applied AI, document workflows, full-stack development, and building products that make sense for the people and places they serve.
+[![Orch study dashboard with focus mode, review queue, and activity feed](https://orch.spriteteam.com/assets/img/screenshots/study-home.webp)](https://orch.spriteteam.com/screenshots.html)
 
-Most of my projects use Python, TypeScript, or JavaScript. I'm also exploring Java and Rust. I'm still learning, and I try to make that visible through working projects rather than big claims.
+The software market is full of impressive demos. What matters to me is what happens after the demo: messy inputs, uncertain decisions, and the moment someone needs to put things right. Orch keeps a review queue, records file moves, and makes them undoable. I want my work to earn trust by being useful, not by making the biggest claims.
 
-## Say hello
+## Other things I am building
 
-I'm glad to connect with people interested in practical AI, software engineering, and building useful technology in East Africa.
+- [VisitKla](https://github.com/iranziresponse-hue/VisitKla): Kampala navigation with landmark directions and boda fare guidance, starting with a defined area and a limited set of routes.
+- [Lumela](https://github.com/iranziresponse-hue/lumela): a community outage map where people can share and verify local power status.
+- [Nuru](https://github.com/iranziresponse-hue/Nuru): invoice and statement extraction with OCR, human review, and a candid evaluation of its real-world accuracy limits.
+- [studyBuddy](https://github.com/iranziresponse-hue/studyBuddy): an AI study companion bringing tutoring, document analysis, and academic planning together.
+
+## What I am learning
+
+Most of my work is in Python, TypeScript, and JavaScript. I am learning to make better engineering choices across the whole product: scope, usability, data handling, testing, and what happens when the happy path fails.
+
+I am especially interested in practical AI, student tools, and software built for East African users. Always happy to talk about building products that solve a real problem.
+
+[Orch website](https://orch.spriteteam.com) | [GitHub projects](https://github.com/iranziresponse-hue) | [LinkedIn](https://www.linkedin.com/in/iranzi-response-428136382)
