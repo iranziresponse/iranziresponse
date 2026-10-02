@@ -8,6 +8,7 @@ The AI market is crowded, and putting a chatbot in front of a model is no longer
 
 - [VisitKla](https://github.com/iranziresponse-hue/VisitKla) — a Kampala navigation MVP with landmark-based directions and boda fare guidance. It starts with a defined area and a limited set of routes; the local detail is the point.
 - [Nuru](https://github.com/iranziresponse-hue/Nuru) — an invoice extraction project exploring how document information can become structured, usable data.
+- [lumela](https://github.com/iranziresponse-hue/lumela) - a community-powered outage map and installable PWA for sharing and verifying local power-status reports.
 - [studyBuddy](https://github.com/iranziresponse-hue/studyBuddy) — an AI study companion concept bringing tutoring, document analysis, and academic planning together.
 - [file-organizer](https://github.com/iranziresponse-hue/file-organizer) — a Python utility for automating file organization.
 
