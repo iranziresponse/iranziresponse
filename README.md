@@ -2,7 +2,7 @@
 
 I am a software engineering student at Makerere University, building practical products for student life and everyday work. My favorite place to start? The little frustrations people have started treating as normal.
 
-[Portfolio](https://iranzi.spriteteam.com) | [LinkedIn](https://www.linkedin.com/in/iranzi-response-428136382) | [Email](mailto:iranziresponse@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/iranzi-response-428136382) | [Email](mailto:iranziresponse@gmail.com)
 
 ## Orch: a calmer place for student life
 
